@@ -145,6 +145,14 @@ header {
     margin-bottom: 90px;
     color: #ffffff;
 }
+.title2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+    color: #ffffff;
+}
 
 #nav {
     margin: 0;
